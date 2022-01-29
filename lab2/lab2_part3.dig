@@ -1227,7 +1227,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>reg0_3</string>
+          <string>reg2_3</string>
         </entry>
       </elementAttributes>
       <pos x="160" y="700"/>
@@ -1241,7 +1241,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>reg0_2</string>
+          <string>reg2_2</string>
         </entry>
       </elementAttributes>
       <pos x="160" y="680"/>
@@ -1255,7 +1255,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>reg0_0</string>
+          <string>reg2_0</string>
         </entry>
       </elementAttributes>
       <pos x="160" y="640"/>
@@ -1269,7 +1269,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>reg0_1</string>
+          <string>reg2_1</string>
         </entry>
       </elementAttributes>
       <pos x="160" y="660"/>
