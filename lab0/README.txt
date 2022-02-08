@@ -1,2 +1,1 @@
-I, Nadia Shabbar, have read and understood the Winter CSE12 syllabus and
-Personal Responsibility Document. nshabbar 5 January 2022
+I, Nadia Shabbar, have read and understood the Winter CSE12 syllabus and Personal Responsibility Document. nshabbar 5 January 2022
