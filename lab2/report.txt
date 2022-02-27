@@ -1,0 +1,19 @@
+assignment:  lab 2
+name:        Nadia Shabbar
+cruzid:      nshabbar
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+22 / 30 Part-1 completed
+28 / 30 Part-2 completed
+30 / 30 Part-3 completed
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+
+--------------------
+TOTAL
+
+points earned:   90
+lab total:       100
+late hours used: 0
