@@ -13,15 +13,14 @@
 fill_bitmap:
 
     # Your code goes here   
-	addi x1, x0, 0
-	addi x2, x0, 1024
-	lui x6, 1
-	addi x6, x6, -1024
-	addi x3, x0, 72
+	addi t1, x0, 0
+	addi t2, x0, 1024
+	lui t6, 1
+	addi t6, t6, -1024
 my_loop:
-	add x5, x0, x3
-	sb x5, 0(x6)
-	addi x6, x6, 1
-	addi x1, x1, 1
-	blt x1, x2, my_loop
+	add t5, x0, a0
+	sb t5, 0(t6)
+	addi t6, t6, 1
+	addi t1, t1, 1
+	blt t1, t2, my_loop
 	jr ra
